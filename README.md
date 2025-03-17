@@ -1,7 +1,7 @@
 # CDM_Article
 Code for plotting Google search trends data
 
-Unfortunately, Python packages claiming to interface directly with Google Trends have been deprecated, requiring any trends data to be manually downloaded for analysis
+Unfortunately, Python packages claiming to interface directly with Google Trends have been deprecated, requiring any trends data to be manually downloaded
 
 To download additional data for analysis:
 1. Go to trends.google.com
